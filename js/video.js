@@ -50,7 +50,7 @@ function changeVolume() {
 	var volume = document.getElementById("volumeSlider").value;
 	var corrected = volume/100;
 	video.volume = corrected;
-    console.log("The volume is at " + video.volume*100 + "%");
+    console.log("The volume is at " + video.volume*100);
 }
  
 function gray() { 
