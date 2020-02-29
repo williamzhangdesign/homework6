@@ -1,4 +1,4 @@
-# homework_1
-Code repository for Homework 1
+# homework_6
 
-Description and Instructions at: https://docs.google.com/document/d/16ZCio0Xg0laP7JyQJmDaEOom3f0RDuO5WlfHZUGHS0g/edit?usp=sharing
+Code repository for homework 6. Description and instructions can be found at: https://docs.google.com/document/d/1G7BvRqTUewblgt4XjKh0zTwvbxvv1r1jQUa55Y692_c/edit?usp=sharing
+
